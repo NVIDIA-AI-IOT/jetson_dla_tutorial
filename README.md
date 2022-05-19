@@ -23,6 +23,7 @@ Let’s get started!
 - [Step 6 - Train the model](#step-6)
 - [Step 7 - Optimize the model (using real weights and calibration data)](#step-7)
 - [Step 8 - Evaluate the accuracy of the optimized model](#step-8)
+- [Step 9 - Modify trained model with ONNX graph surgeon](#step-9)
 - [Next Steps](#next-steps)
 
 
